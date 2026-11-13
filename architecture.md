@@ -14,7 +14,7 @@ flowchart TB
     FMAIL["Faux mail editeur DPI"]
   end
 
-  subgraph ANIM["Animation hors jumeau - votre equipe"]
+  subgraph ANIM["Animation hors jumeau "]
     AEV["OpenAEV (ex-OpenBAS)<br/>injects + timeline"]
   end
 
